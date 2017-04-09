@@ -1,0 +1,2218 @@
+ [
+  {
+  "created_at": "Thu Jan 12 01:55:00 +0000 2017",
+  "id": 8.1936200724585e+17,
+  "id_str": "819362007245852674",
+  "text": "@JStheoriginal One. Million. Times. This.",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "JStheoriginal",
+                    "name": "Justin Stanley \ud83d\udc68\u200d\ud83d\udcbb",
+                    "id": 18286161,
+                    "id_str": "18286161",
+                    "indices": [
+                                0,
+                                14
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1935654627876e+17,
+  "in_reply_to_status_id_str": "819356546278756352",
+  "in_reply_to_user_id": 18286161,
+  "in_reply_to_user_id_str": "18286161",
+  "in_reply_to_screen_name": "JStheoriginal",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 11 19:07:17 +0000 2017",
+  "id": 8.192594034719e+17,
+  "id_str": "819259403471900677",
+  "text": "@nsphin Any kernel panics or sleep-wake failures yet? I seem to get those all the time now \ud83d\ude36",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "nsphin",
+                    "name": "S\u00e9raphin Hochart",
+                    "id": 79655770,
+                    "id_str": "79655770",
+                    "indices": [
+                                0,
+                                7
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.1925841206838e+17,
+  "in_reply_to_status_id_str": "819258412068376577",
+  "in_reply_to_user_id": 79655770,
+  "in_reply_to_user_id_str": "79655770",
+  "in_reply_to_screen_name": "nsphin",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 11 15:28:34 +0000 2017",
+  "id": 8.1920436081521e+17,
+  "id_str": "819204360815214592",
+  "text": "@merowing_ Great article! How do you feel about test feedback times with Xcode? I find they\u2019re dreadfully slow. Can we make it faster?",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "merowing_",
+                    "name": "Krzysztof Zab\u0142ocki",
+                    "id": 289246577,
+                    "id_str": "289246577",
+                    "indices": [
+                                0,
+                                10
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.1888208413572e+17,
+  "in_reply_to_status_id_str": "818882084135718912",
+  "in_reply_to_user_id": 289246577,
+  "in_reply_to_user_id_str": "289246577",
+  "in_reply_to_screen_name": "merowing_",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 11 15:26:06 +0000 2017",
+  "id": 8.1920374155551e+17,
+  "id_str": "819203741555507202",
+  "text": "@nsphin Looking good \ud83d\ude0e",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "nsphin",
+                    "name": "S\u00e9raphin Hochart",
+                    "id": 79655770,
+                    "id_str": "79655770",
+                    "indices": [
+                                0,
+                                7
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.1919762769059e+17,
+  "in_reply_to_status_id_str": "819197627690586112",
+  "in_reply_to_user_id": 79655770,
+  "in_reply_to_user_id_str": "79655770",
+  "in_reply_to_screen_name": "nsphin",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 11 13:20:15 +0000 2017",
+  "id": 8.1917206864214e+17,
+  "id_str": "819172068642136064",
+  "text": "@merowing_ wholeheartedly agree. I wish someone had forced me to compose more when I started out. Would\u2019ve avoided many headaches",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "merowing_",
+                    "name": "Krzysztof Zab\u0142ocki",
+                    "id": 289246577,
+                    "id_str": "289246577",
+                    "indices": [
+                                0,
+                                10
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1912029776907e+17,
+  "in_reply_to_status_id_str": "819120297769074688",
+  "in_reply_to_user_id": 289246577,
+  "in_reply_to_user_id_str": "289246577",
+  "in_reply_to_screen_name": "merowing_",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Fri Jan 06 01:08:29 +0000 2017",
+  "id": 8.1717597592238e+17,
+  "id_str": "817175975922384896",
+  "text": "@lucvandal I dunno, for me it just happened. If I remember correctly, you can set how often the screen savers cycle in the settings",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "lucvandal",
+                    "name": "Luc Vandal",
+                    "id": 69159937,
+                    "id_str": "69159937",
+                    "indices": [
+                                0,
+                                10
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1716075788436e+17,
+  "in_reply_to_status_id_str": "817160757884358657",
+  "in_reply_to_user_id": 69159937,
+  "in_reply_to_user_id_str": "69159937",
+  "in_reply_to_screen_name": "lucvandal",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Fri Jan 06 00:29:40 +0000 2017",
+  "id": 8.1716620504799e+17,
+  "id_str": "817166205047992322",
+  "text": "@vernalkick @ShelleyTran Hah! Touch\u00e9 \ud83e\udd3a",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "vernalkick",
+                    "name": "Kevin Clark",
+                    "id": 32622651,
+                    "id_str": "32622651",
+                    "indices": [
+                                0,
+                                11
+                                ]
+                    },
+                    {
+                    "screen_name": "ShelleyTran",
+                    "name": "Shelley Tran",
+                    "id": 51783424,
+                    "id_str": "51783424",
+                    "indices": [
+                                12,
+                                24
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1716376572463e+17,
+  "in_reply_to_status_id_str": "817163765724626944",
+  "in_reply_to_user_id": 32622651,
+  "in_reply_to_user_id_str": "32622651",
+  "in_reply_to_screen_name": "vernalkick",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "fr"
+  },
+  {
+  "created_at": "Thu Jan 05 22:26:57 +0000 2017",
+  "id": 8.1713532529011e+17,
+  "id_str": "817135325290106880",
+  "text": "@KarlHarnois \ud83d\ude31\ud83d\ude31\ud83d\ude31",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "KarlHarnois",
+                    "name": "Karl Rivest Harnois",
+                    "id": 3214779742,
+                    "id_str": "3214779742",
+                    "indices": [
+                                0,
+                                12
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1712878295603e+17,
+  "in_reply_to_status_id_str": "817128782956032001",
+  "in_reply_to_user_id": 3214779742,
+  "in_reply_to_user_id_str": "3214779742",
+  "in_reply_to_screen_name": "KarlHarnois",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "und"
+  },
+  {
+  "created_at": "Thu Jan 05 15:52:10 +0000 2017",
+  "id": 8.1703597308321e+17,
+  "id_str": "817035973083205633",
+  "text": "@nsphin Oh no! Which?",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "nsphin",
+                    "name": "S\u00e9raphin Hochart",
+                    "id": 79655770,
+                    "id_str": "79655770",
+                    "indices": [
+                                0,
+                                7
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1703345856443e+17,
+  "in_reply_to_status_id_str": "817033458564431873",
+  "in_reply_to_user_id": 79655770,
+  "in_reply_to_user_id_str": "79655770",
+  "in_reply_to_screen_name": "nsphin",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Thu Jan 05 14:44:08 +0000 2017",
+  "id": 8.1701885023139e+17,
+  "id_str": "817018850231390211",
+  "text": "Watching a video about how to setup @YNAB and this person just created a category to save up for a shotgun \ud83d\ude10 #Murica",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+               {
+               "text": "Murica",
+               "indices": [
+                           109,
+                           116
+                           ]
+               }
+               ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "ynab",
+                    "name": "You Need A Budget",
+                    "id": 15466379,
+                    "id_str": "15466379",
+                    "indices": [
+                                36,
+                                41
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Thu Jan 05 01:16:54 +0000 2017",
+  "id": 8.1681570691439e+17,
+  "id_str": "816815706914385926",
+  "text": "@JStheoriginal 3D Touch is really great for editing text :) I\u2019m positive you\u2019ll like it once you get your hands on it!",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "JStheoriginal",
+                    "name": "Justin Stanley \ud83d\udc68\u200d\ud83d\udcbb",
+                    "id": 18286161,
+                    "id_str": "18286161",
+                    "indices": [
+                                0,
+                                14
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.168021177511e+17,
+  "in_reply_to_status_id_str": "816802117751099392",
+  "in_reply_to_user_id": 18286161,
+  "in_reply_to_user_id_str": "18286161",
+  "in_reply_to_screen_name": "JStheoriginal",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 04 18:10:00 +0000 2017",
+  "id": 8.1670827209492e+17,
+  "id_str": "816708272094924801",
+  "text": "@JStheoriginal what kind of bug are you? A \ud83d\udc1d? Or perhaps a \ud83d\udc1b?",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "JStheoriginal",
+                    "name": "Justin Stanley \ud83d\udc68\u200d\ud83d\udcbb",
+                    "id": 18286161,
+                    "id_str": "18286161",
+                    "indices": [
+                                0,
+                                14
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1670754831741e+17,
+  "in_reply_to_status_id_str": "816707548317413376",
+  "in_reply_to_user_id": 18286161,
+  "in_reply_to_user_id_str": "18286161",
+  "in_reply_to_screen_name": "JStheoriginal",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 04 15:41:25 +0000 2017",
+  "id": 8.1667087969862e+17,
+  "id_str": "816670879698616320",
+  "text": "@AngeloStavrow I feel for you. When I learned my writer cousin did all her writing in Word, I was like, oh let me intro you to Ulysses \ud83d\ude07",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "AngeloStavrow",
+                    "name": "Angelo Stavrow",
+                    "id": 15496351,
+                    "id_str": "15496351",
+                    "indices": [
+                                0,
+                                14
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1666571380084e+17,
+  "in_reply_to_status_id_str": "816665713800839168",
+  "in_reply_to_user_id": 15496351,
+  "in_reply_to_user_id_str": "15496351",
+  "in_reply_to_screen_name": "AngeloStavrow",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 04 14:10:06 +0000 2017",
+  "id": 8.1664790066305e+17,
+  "id_str": "816647900663050240",
+  "text": "@AngeloStavrow it depends on Jupiter\u2019s alignment. Duhhh!!!! \ud83d\ude07",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "AngeloStavrow",
+                    "name": "Angelo Stavrow",
+                    "id": 15496351,
+                    "id_str": "15496351",
+                    "indices": [
+                                0,
+                                14
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1664169105046e+17,
+  "in_reply_to_status_id_str": "816641691050459136",
+  "in_reply_to_user_id": 15496351,
+  "in_reply_to_user_id_str": "15496351",
+  "in_reply_to_screen_name": "AngeloStavrow",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 04 00:26:45 +0000 2017",
+  "id": 8.1644069740656e+17,
+  "id_str": "816440697406558211",
+  "text": "@1Password \u201cno way\u201d as in the API does\u2019t exist? If so, is there a radar open?",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "1Password",
+                    "name": "1Password",
+                    "id": 793926,
+                    "id_str": "793926",
+                    "indices": [
+                                0,
+                                10
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.164393952974e+17,
+  "in_reply_to_status_id_str": "816439395297402880",
+  "in_reply_to_user_id": 793926,
+  "in_reply_to_user_id_str": "793926",
+  "in_reply_to_screen_name": "1Password",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Wed Jan 04 00:04:52 +0000 2017",
+  "id": 8.164351896227e+17,
+  "id_str": "816435189622702081",
+  "text": "@smileyborg hah, same here! (and I still pronounce it re-flog \ud83d\ude4a)",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "smileyborg",
+                    "name": "Tyler Fox",
+                    "id": 1636577430,
+                    "id_str": "1636577430",
+                    "indices": [
+                                0,
+                                11
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS<\/a>",
+  "in_reply_to_status_id": 8.1643208849675e+17,
+  "in_reply_to_status_id_str": "816432088496754688",
+  "in_reply_to_user_id": 1636577430,
+  "in_reply_to_user_id_str": "1636577430",
+  "in_reply_to_screen_name": "smileyborg",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Tue Jan 03 22:51:05 +0000 2017",
+  "id": 8.1641661965214e+17,
+  "id_str": "816416619652141056",
+  "text": "@kcase Especially with emoji! It would be great if OF could autocomplete the folder part and let me create a new project with CMD+Enter",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "kcase",
+                    "name": "Ken Case",
+                    "id": 7548842,
+                    "id_str": "7548842",
+                    "indices": [
+                                0,
+                                6
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.164160377973e+17,
+  "in_reply_to_status_id_str": "816416037797302272",
+  "in_reply_to_user_id": 37583735,
+  "in_reply_to_user_id_str": "37583735",
+  "in_reply_to_screen_name": "Frankacy",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Tue Jan 03 22:48:46 +0000 2017",
+  "id": 8.164160377973e+17,
+  "id_str": "816416037797302272",
+  "text": "@kcase I create new projects from inbox items. Needing to type out exact folder names to have the new project nested correctly is tough :(",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "kcase",
+                    "name": "Ken Case",
+                    "id": 7548842,
+                    "id_str": "7548842",
+                    "indices": [
+                                0,
+                                6
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.16414717447e+17,
+  "in_reply_to_status_id_str": "816414717446995968",
+  "in_reply_to_user_id": 7548842,
+  "in_reply_to_user_id_str": "7548842",
+  "in_reply_to_screen_name": "kcase",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Tue Jan 03 22:38:28 +0000 2017",
+  "id": 8.1641344788172e+17,
+  "id_str": "816413447881719808",
+  "text": "@steipete @olebegemann Though I have no way of knowing if it\u2019s \u201cthe best\u201d way or not. \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "steipete",
+                    "name": "Peter Steinberger",
+                    "id": 25401953,
+                    "id_str": "25401953",
+                    "indices": [
+                                0,
+                                9
+                                ]
+                    },
+                    {
+                    "screen_name": "olebegemann",
+                    "name": "Ole Begemann",
+                    "id": 231756759,
+                    "id_str": "231756759",
+                    "indices": [
+                                10,
+                                22
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.164131634911e+17,
+  "in_reply_to_status_id_str": "816413163491098626",
+  "in_reply_to_user_id": 37583735,
+  "in_reply_to_user_id_str": "37583735",
+  "in_reply_to_screen_name": "Frankacy",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  },
+  {
+  "created_at": "Tue Jan 03 22:37:21 +0000 2017",
+  "id": 8.164131634911e+17,
+  "id_str": "816413163491098626",
+  "text": "@steipete @olebegemann If I know a view\u2019s constraints won\u2019t be changing, I create them in the init. Hasn\u2019t failed me so far :)",
+  "truncated": false,
+  "entities": {
+  "hashtags": [
+
+  ],
+  "symbols": [
+
+  ],
+  "user_mentions": [
+                    {
+                    "screen_name": "steipete",
+                    "name": "Peter Steinberger",
+                    "id": 25401953,
+                    "id_str": "25401953",
+                    "indices": [
+                                0,
+                                9
+                                ]
+                    },
+                    {
+                    "screen_name": "olebegemann",
+                    "name": "Ole Begemann",
+                    "id": 231756759,
+                    "id_str": "231756759",
+                    "indices": [
+                                10,
+                                22
+                                ]
+                    }
+                    ],
+  "urls": [
+
+  ]
+  },
+  "source": "<a href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\">Tweetbot for Mac<\/a>",
+  "in_reply_to_status_id": 8.1641268886365e+17,
+  "in_reply_to_status_id_str": "816412688863653889",
+  "in_reply_to_user_id": 25401953,
+  "in_reply_to_user_id_str": "25401953",
+  "in_reply_to_screen_name": "steipete",
+  "user": {
+  "id": 37583735,
+  "id_str": "37583735",
+  "name": "Frank Courville \uf8ff",
+  "screen_name": "Frankacy",
+  "location": "Montreal",
+  "description": "iOS Consultant, Trainer and Toastmaster. I also co-organize @CocoaHeadsMtl. ENTJ. \u24cb",
+  "url": "https:\/\/t.co\/yF8FrHWoAI",
+  "entities": {
+  "url": {
+  "urls": [
+           {
+           "url": "https:\/\/t.co\/yF8FrHWoAI",
+           "expanded_url": "http:\/\/frankcourville.com",
+           "display_url": "frankcourville.com",
+           "indices": [
+                       0,
+                       23
+                       ]
+           }
+           ]
+  },
+  "description": {
+  "urls": [
+
+  ]
+  }
+  },
+  "protected": false,
+  "followers_count": 334,
+  "friends_count": 360,
+  "listed_count": 20,
+  "created_at": "Mon May 04 03:25:47 +0000 2009",
+  "favourites_count": 1764,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 2774,
+  "lang": "en",
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/786695929\/f4ad1fd259c8c7d81c8e864cd0248213.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/640708391153741824\/2rmo7Fvl_normal.jpg",
+  "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/37583735\/1441593015",
+  "profile_link_color": "0000CC",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+  }
+  ]
